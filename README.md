@@ -2,6 +2,12 @@
 
 A personal collection of skills developed to optimize AI agent workflows.
 
+## Installation
+
+```bash
+npx skills add kitckso/skills
+```
+
 ## Skills
 
 ### [`ask-for-help`](./skills/ask-for-help/SKILL.md)
