@@ -55,7 +55,7 @@ Present the user with a clearly delimited prompt block they can copy:
 I need assistance from a stronger AI model to continue.
 
 Please copy everything between the START and END markers below
-and paste it into a stronger LLM (e.g., Claude Opus, GPT-4, etc.).
+and paste it into a stronger LLM (e.g., Claude, GPT-5, etc.).
 Then paste the complete response back here so I can continue.
 
 ========== START PROMPT ==========

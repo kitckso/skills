@@ -2,6 +2,12 @@
 
 A skill that delegates complex problems to a stronger AI model. When the agent hits a problem it cannot solve — complex logic, architectural decisions, or errors it cannot diagnose — it generates a structured handoff prompt for you to copy into a more capable LLM (ChatGPT, Claude.ai, Gemini, etc.). You paste the response back, and the agent continues the work.
 
+## Why This Exists
+
+Top-tier LLMs like Claude, GPT-5, and Gemini are the most capable at complex logic, architecture decisions, and UI design — but they are expensive when accessed via API, especially for day-to-day use. However, many of these same models are available for **free** through web chatbots (ChatGPT, Claude.ai, Gemini, etc.).
+
+This skill bridges the gap: you can use a cheap, fast LLM as your daily coding agent for routine work, and escalate only the hard problems to a stronger model via copy-paste. The result is near-top-tier quality at minimal cost.
+
 ## How to Trigger
 
 ### Automatic
